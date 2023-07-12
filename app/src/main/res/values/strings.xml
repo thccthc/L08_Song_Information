@@ -14,4 +14,9 @@
     <string name="enter_song_title_here">Enter song title here</string>
     <string name="enter_singers_name_here">Enter singers\' name here</string>
     <string name="enter_year_of_release_here">Enter year of release here</string>
+    <string name="enter_the_number_of_stars">Enter the number of stars</string>
+    <string name="show_all_songs_with_5_stars">SHOW ALL SONGS WITH 5 STARS</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="song_id">Song ID</string>
 </resources>

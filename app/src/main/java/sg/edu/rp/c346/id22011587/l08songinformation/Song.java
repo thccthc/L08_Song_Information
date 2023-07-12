@@ -39,4 +39,6 @@ public class Song {
     public int getStars() {
         return stars;
     }
+
+    public String toString() { return "Title: " + title + '\n' + "Singers: " + singers + '\n' + "Year: " + year + '\n' + "Stars: " + stars;}
 }
